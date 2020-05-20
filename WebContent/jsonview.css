@@ -52,7 +52,7 @@ body {
 }
 
 .hovered {
-  background-color: rgba(235, 238, 249, 1);  
+  background-color: var(--background-hover);
 }
 
 .collapser {

@@ -285,3 +285,4 @@ function load() {
 }
 
 load();
+document.documentElement.setAttribute('data-theme', 'dark')
